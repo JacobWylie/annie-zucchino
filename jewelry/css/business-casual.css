@@ -123,10 +123,6 @@ iframe {
     margin: 20px 10px -10px 10px;
 }
 
-.azjd {
-    opacity: .8;
-}
-
 .insta {
     font-family: 'Pacifico', cursive;
     color: #333333;
@@ -150,6 +146,15 @@ iframe {
     font-size: 34px;
     text-transform: none;
     margin-bottom: 50px;
+}
+
+.etsy:hover,
+.etsy-img:hover,
+.facebook:hover,
+.facebook-img:hover,
+.insta:hover,
+.insta-img:hover {
+    opacity: .8;
 }
 
 footer {
