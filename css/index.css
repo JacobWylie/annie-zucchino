@@ -3,6 +3,35 @@ body {
 	background-color: black;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+h1 {
+	margin: 0;
+	padding: 30px;
+	color: pink;
+	font-size: 30px;
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-family: 'Helvetica';
+	letter-spacing: .07em;
+
+}
+
 .jewelry,
 .interior {
 	width: 100%;
